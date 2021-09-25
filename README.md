@@ -6,8 +6,8 @@
 
 | № | Title | Files | Status | Points |
 |:-:|:-:|:-:|:-:|:-:|
-| 1 | Python, Maths | [lab1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab1.ipynb) |  |  |
-| 2 | Pandas | [lab2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab2.ipynb) |  |  |
+| 1 | Python, Maths | [lab1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab1.ipynb) | Graded | 10/10 |
+| 2 | Pandas | [lab2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab2.ipynb) | Graded | 12/12 |
 | 3 | Linear Models |  |  |  |
 | 4 | Decision Trees, Random Forest |  |  |  |
 | 5 | Text Processing |  |  |  |
