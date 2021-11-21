@@ -8,14 +8,14 @@
 |:-:|:-:|:-:|:-:|:-:|
 | 1 | Python, Maths | [lab1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab1.ipynb) | Graded | 10/10 |
 | 2 | Pandas | [lab2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab2.ipynb) | Graded | 12/12 |
-| 3 | Linear Models |  |  |  |
-| 4 | Decision Trees, Random Forest |  |  |  |
-| 5 | Text Processing |  |  |  |
-| 6 | Neuron |  |  |  |
+| 3 | Linear Models | [lab3_1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab3_1.ipynb), [lab3_2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab3_2.ipynb) | Graded | 10/12 |
+| 4 | Decision Trees, Random Forest | [lab4.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab4.ipynb), [dt.py](https://github.com/alexanderlakiza/cs493/blob/main/labs/dt.py), [rf.py](https://github.com/alexanderlakiza/cs493/blob/main/labs/rf.py) | Graded | 12/12 |
+| 5 | Text Processing | [lab5.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab5.ipynb) | Graded | 12/12 |
+| 6 | Neuron | [lab6_1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab6_1.ipynb), [lab6_2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab6_2.ipynb) | Not graded | - |
 | 7 | Image Processing |  |  |  |
 
 ---
-## Full description of each task
+## Description of each task
 
 1. __Python, Maths__  
     The aim of this task is to solve 5 tasks related to Python and Maths  
@@ -26,6 +26,24 @@
     The aim of this task is to get familiar with Pandas library by solving 6 tasks  
     The files of this task are:
     * [lab2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab2.ipynb)
+    
+3. __Linear Models__  
+    The aim of this task is to write Linear Regression from scratch  
+    The files of this task are:  
+    * [lab3_1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab3_1.ipynb)
+    * [lab3_2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab3_2.ipynb)
+    
+4. __Decision Trees, Random Forest__  
+    The aim of this task is to write Decision Tree and Random Forest from scratch  
+    The files of this task are:  
+    * [lab4.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab4.ipynb)
+    * [dt.py](https://github.com/alexanderlakiza/cs493/blob/main/labs/dt.py)
+    * [rf.py](https://github.com/alexanderlakiza/cs493/blob/main/labs/rf.py)
+   
+5. __Text Processing__  
+    The aim of this task is to classify reviews after using 3 word vectorizers  
+    The files of this task are:  
+    * [lab5.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab5.ipynb)
 
 ---
 
