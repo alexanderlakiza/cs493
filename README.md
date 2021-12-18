@@ -11,20 +11,20 @@
 | 3 | Linear Models | [lab3_1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab3_1.ipynb), [lab3_2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab3_2.ipynb) | Graded | 10/12 |
 | 4 | Decision Trees, Random Forest | [lab4.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab4.ipynb), [dt.py](https://github.com/alexanderlakiza/cs493/blob/main/labs/dt.py), [rf.py](https://github.com/alexanderlakiza/cs493/blob/main/labs/rf.py) | Graded | 12/12 |
 | 5 | Text Processing | [lab5.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab5.ipynb) | Graded | 12/12 |
-| 6 | Neuron | [lab6_1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab6_1.ipynb), [lab6_2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab6_2.ipynb) | Not graded | - |
-| 7 | Image Processing |  |  |  |
+| 6 | Neuron | [lab6_1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab6_1.ipynb), [lab6_2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab6_2.ipynb) | Graded | 8/12 |
+| 7 | NN | [lab7_1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab7_1.ipynb), [lab7_2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab7_2.ipynb) | Graded | 12/12 |
 
 ---
 ## Description of each task
 
 1. __Python, Maths__  
     The aim of this task is to solve 5 tasks related to Python and Maths  
-    The files of this task are:
+    The files of this task are:  
     * [lab1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab1.ipynb)
     
 2. __Pandas__  
     The aim of this task is to get familiar with Pandas library by solving 6 tasks  
-    The files of this task are:
+    The files of this task are:  
     * [lab2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab2.ipynb)
     
 3. __Linear Models__  
@@ -44,6 +44,18 @@
     The aim of this task is to classify reviews after using 3 word vectorizers  
     The files of this task are:  
     * [lab5.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab5.ipynb)
+
+6. __Neuron__  
+    The aim of this task is to get familiar with basic Neuron concepts and write your Neuron class with different activation functions  
+    The files of this task are:  
+    * [lab6_1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab6_1.ipynb)
+    * [lab6_2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab6_2.ipynb)
+
+7. __Neural Networks__  
+    The aim of this task is to learn basics of working with Neural Networks (in our case PyTorch framework) and to use 2 NNs to classify Fashionmnist dataset  
+    The files of this task are:  
+    * [lab7_1.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab7_1.ipynb)
+    * [lab7_2.ipynb](https://github.com/alexanderlakiza/cs493/blob/main/labs/lab7_2.ipynb)
 
 ---
 
